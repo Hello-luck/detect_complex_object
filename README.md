@@ -10,3 +10,6 @@ detect_complex_object boundary using matlab (can handle object with weak boundar
 <img width="560" alt="123" src="https://github.com/nitpicker55555/detect_complex_object/assets/91596298/1a34270e-7e67-4678-91eb-d97d700a52d4">
 
 <img width="1385" alt="af7f0574797c905f9d8976dc237b006" src="https://github.com/nitpicker55555/detect_complex_object/assets/91596298/062f5372-7b50-4919-ad10-338086436c0a">
+
+
+![image](https://github.com/nitpicker55555/detect_complex_object/assets/91596298/860814f8-0aee-4fc2-98eb-31bf0bcac2c7)
